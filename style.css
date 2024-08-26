@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #000;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header p {
+    margin: 5px 0;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    background-color: #763838;
+    padding: 5px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+
+h3 {
+    color: #000000;
+    letter-spacing: 1px;
+    padding: 3px;
+}
+
+.right {
+
+    float: right;
+}
